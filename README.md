@@ -1,6 +1,6 @@
 ### Hi there👋
 <h3 align="center">I'm Ritika, a first year MCA student @IGDTUW👩‍💻 and currently into app development(learning and improving)</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-mobile.mp4">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1107512/screenshots/5554208/media/223f285283fc166e49d831b503eab844.gif">
 
 - 🔭 I’m currently working on **Sticky note app**
 
