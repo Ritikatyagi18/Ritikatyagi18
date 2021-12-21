@@ -1,10 +1,10 @@
 ### Hi there👋
 <h3 align="center">I'm Ritika, a first year MCA student @IGDTUW👩‍💻 and currently into app development(learning and improving)</h3>
-<img align="right" alt="Coding" width="400" src="https://wdrfree.com/stock-vector/download/deadline-time-management-audit-concept-300699914">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15721823-Woman-sitting-on-sill-illustration">
 
 - 🔭 I’m currently working on **Sticky note app**
 
-- 🌱 I’m currently learning **firebase**
+- 🌱 I’m currently learning **Firebase**
 
 - 💬 Let's talk about **New technologies and trends**
 
