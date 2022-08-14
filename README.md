@@ -1,5 +1,5 @@
 ### Hi there👋
-<h3 align="center">I'm Ritika, a first year MCA student @IGDTUW👩‍💻 and currently into app development(learning and improving)</h3>
+<h3 align="center">I'm Ritika, a final year MCA student @IGDTUW👩‍💻 and currently into app development(learning and improving)</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/227/854/non_2x/female-developer-vector.jpg">
 
 - 🔭 I’m currently working on **Machine Learning project**
