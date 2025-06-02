@@ -1,14 +1,19 @@
-### Hi there👋
-<h3 align="center">I'm Ritika, a final year MCA student @IGDTUW👩‍💻 and currently into app development(learning and improving)</h3>
+### Hi there 👋
+
+<h3 align="center">I'm Ritika — a Software Engineer at Deutsche Bank and a silver medalist MCA graduate from IGDTUW 👩‍💻</h3>
+
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/227/854/non_2x/female-developer-vector.jpg">
 
-- 🔭 I’m currently working on **Machine Learning project**
+- 🛠 I’m currently working on **microservices, scalable transaction systems, and full-stack app development**
+- 🧠 I'm passionate about building efficient, testable, and secure applications using **React, TypeScript, Golang, and GCP**
+- 🌱 I’m learning **advanced cloud workflows, DevOps practices, and AI integrations**
+- 📊 Let’s talk about **system design, new tech trends, and open-source collaborations**
+- 🏆 Fun fact: I was ranked Top 3 in Deutsche Bank’s global Dementia Hackathon 🧠⚡
 
-- 🌱 I’m currently learning **Firebase**
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/ritika-tyagi18)  
+📬 Email: ritika18.tyagi@gmail.com
 
-- 💬 Let's talk about **New technologies and trends**
 
-- 📫 Contact me **ritika18.tyagi@gmail.com**
 
 - ⚡ Fun fact **I love interacting with new people, making doodles and I add "yrrr" in every sentence with different No. of "r"(depends on emotion and mood).**
 
