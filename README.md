@@ -1,12 +1,14 @@
-```md
-<h1 align="center">Hi 👋, I'm Ritika Tyagi</h1>
+
+<h1 align="center">
+  Hi 👋, I'm Ritika Tyagi
+</h1>
 
 <h3 align="center">
-Software Engineer @ Deutsche Bank • Full Stack Developer • MCA Silver Medalist
+  Software Engineer @ Deutsche Bank • Full Stack Developer • MCA Silver Medalist
 </h3>
 
 <p align="center">
-Building scalable backend systems, microservices, and modern web applications.
+  Building scalable backend systems, microservices, and modern web applications.
 </p>
 
 <p align="center">
@@ -15,7 +17,7 @@ Building scalable backend systems, microservices, and modern web applications.
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding Girl" width="360" src="https://i.pinimg.com/originals/4d/8f/1d/4d8f1dc4f7c6f4bbf0f5dbecf0f6f1d.gif">
 
 ## 👩‍💻 About Me
 
@@ -23,11 +25,15 @@ Building scalable backend systems, microservices, and modern web applications.
 - ⚙️ Working on **microservices, transaction systems, and embedded finance applications**
 - 🌐 Experienced in **React, TypeScript, Golang, Node.js, and GCP**
 - 🧠 Passionate about building **scalable, secure, and performant applications**
-- ☁️ Currently exploring **cloud-native systems, DevOps workflows, and AI integrations**
-- 🏆 Top 3 finalist in Deutsche Bank’s Global Dementia Hackathon
+- ☁️ Exploring **cloud-native systems, DevOps workflows, and AI integrations**
+- 🏆 Top 3 Finalist in Deutsche Bank’s Global Dementia Hackathon
 - 🎓 MCA Silver Medalist from **IGDTUW**
 
 <br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320"/>
+</p>
+
 
 ## 🚀 Tech Stack
 
@@ -56,20 +62,20 @@ Building scalable backend systems, microservices, and modern web applications.
   <img src="https://skillicons.dev/icons?i=cypress,postman,vscode" />
 </p>
 
----
+
 
 ## 📌 Featured Projects
 
-### 🔹 Vibing
+### 🎵 Vibing
 Emotion-based music recommendation system using real-time mood detection.
 
-### 🔹 Compadre
+### 📋 Compadre
 Task management Android application based on the Eisenhower Matrix with Firebase integration.
 
-### 🔹 Embedded Finance Platform
+### 💳 Embedded Finance Platform
 Built transaction workflows, payout systems, reconciliation services, and admin tooling at Deutsche Bank.
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -91,7 +97,7 @@ Built transaction workflows, payout systems, reconciliation services, and admin 
   />
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -105,9 +111,5 @@ Built transaction workflows, payout systems, reconciliation services, and admin 
 </a>
 </p>
 
----
 
-## ⚡ Fun Fact
 
-I add different numbers of “r” in *yrrr* depending on my mood 😄
-```
