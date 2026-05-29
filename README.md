@@ -8,7 +8,7 @@
 - 🧠 I'm passionate about building efficient, testable, and secure applications using **React, TypeScript, Golang, and GCP**
 - 🌱 I’m learning **advanced cloud workflows, DevOps practices, and AI integrations**
 - 📊 Let’s talk about **system design, new tech trends, and open-source collaborations**
-- 🏆 Fun fact: I was ranked Top 3 in Deutsche Bank’s global Dementia Hackathon 🧠⚡
+- 🏆 I was ranked Top 3 in Deutsche Bank’s global Dementia Hackathon 🧠⚡
 
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/ritika-tyagi18)  
 📬 Email: ritika18.tyagi@gmail.com
