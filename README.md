@@ -80,10 +80,10 @@ Built transaction workflows, payout systems, reconciliation services, and admin 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
+  <!-- <img 
     src="https://github-readme-stats.vercel.app/api?username=ritikatyagi18&show_icons=true&theme=tokyonight&hide_border=true" 
     height="170"
-  />
+  /> -->
   
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ritikatyagi18&theme=tokyonight&hide_border=true" 
@@ -92,9 +92,9 @@ Built transaction workflows, payout systems, reconciliation services, and admin 
 </p>
 
 <p align="center">
-  <img 
+  <!-- <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikatyagi18&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" 
-  />
+  /> -->
 </p>
 
 
